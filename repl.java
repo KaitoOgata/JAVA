@@ -11,13 +11,16 @@ import java.util.Scanner;
 
 public class java1 {
     public static void main(String[] args) {
-    	
+    	//decrare variable
     	String str, output;
     	
     	Scanner input =new Scanner(System.in);
-    	output=repl("hello", 3);
-    	System.out.println(output);
+    	//example
+        output=repl("hello", 3);
+    	//output the result
+        System.out.println(output);
     }
+    //define repl()
     public static String repl(String str,int times)
     {
     	String newStr="";
