@@ -9,7 +9,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class java1 {
+public class repl {
     public static void main(String[] args) {
     	//decrare variable
     	String str, output;
