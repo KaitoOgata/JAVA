@@ -1,3 +1,7 @@
+ //*******************************************************************
+//By: Kaito Ogata
+//Date March 20 2020
+//*******************************************************************
 //create class called Lawyer
 public class Lawyer extends Employee
 {
